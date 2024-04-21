@@ -1,7 +1,7 @@
 package guru.qa;
 
 private static String msg = "Hello qa.guru!!!!";
-
+String a = "Hello"
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
